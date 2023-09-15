@@ -18,18 +18,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: sergiomigueldossantosjr@outlook.com">
-      <img width="30" src="Outlook.svg">
-    </a>
-    <a href = "www.linkedin.com/in/sérgiomiguel">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/sergiomigueljr/">
-      <img width="25" src="instagram.png">
-    </a>
 </div>
+    
   
