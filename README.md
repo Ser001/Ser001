@@ -1,7 +1,11 @@
 ## Faala dev, Sérgio Aqui!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sergiomigueljr/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgiomiguel/)
+<a href="https://www.instagram.com/sergiomigueljr/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/s%C3%A9rgiomiguel/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ser001&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
